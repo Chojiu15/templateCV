@@ -1,6 +1,6 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Teub Yacine",
+    "name": "Hamdada Yacine",
     "role": "React and Node trainer at the Wild Code School",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
